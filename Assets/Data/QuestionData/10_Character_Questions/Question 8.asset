@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e12c7c3cd9d400bb3b91f055daee4ad, type: 3}
+  m_Name: Question 8
+  m_EditorClassIdentifier: 
+  questionText: "MECAZEN, \"\u0130\u011ENELEY\u0130C\u0130 VE KIRICI \xDCSLUPLA KONU\u015EMA
+    HUYU OLAN K\u0130MSELER\u0130\" N\u0130TELEYEN S\xD6Z D\u0130Z\u0130S\u0130"
+  answer: "S\u0130VR\u0130D\u0130LL\u0130"
+  scoreValue: 1000

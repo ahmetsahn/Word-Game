@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e12c7c3cd9d400bb3b91f055daee4ad, type: 3}
+  m_Name: Question 4
+  m_EditorClassIdentifier: 
+  questionText: "MUC\u0130D\u0130 B\u0130R ALMAN OLAN VE HALK A\u011EZINDA \"GIRNATA\"
+    DA DEN\u0130LEN ENSTR\xDCMAN"
+  answer: KLARNET
+  scoreValue: 700
